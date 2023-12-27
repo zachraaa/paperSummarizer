@@ -30,7 +30,7 @@ def main():
     st.divider()
 
     try:
-        os.environ["OPENAI_API_KEY"] = "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"
+        os.environ["OPENAI_API_KEY"] = "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"
     except ValueError as e:
         st.error(str(e))
         return
