@@ -27,7 +27,6 @@ def process_text(text):
 
 def main():
     st.title("📄PDF Summarizer")
-    st.write("Created by Hilman Singgih Wicaksana")
     st.divider()
 
     try:
